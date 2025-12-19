@@ -2,3 +2,4 @@
 *.step
 *-backups
 img/raw
+*-cache

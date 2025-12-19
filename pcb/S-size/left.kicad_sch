@@ -3499,6 +3499,16 @@
 	)
 	(text "L"
 		(exclude_from_sim no)
+		(at 45.974 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "63356de1-e384-4cc1-9edb-f3f08ca63030")
+	)
+	(text "L"
+		(exclude_from_sim no)
 		(at 45.974 58.674 0)
 		(effects
 			(font
@@ -3506,6 +3516,16 @@
 			)
 		)
 		(uuid "6cab7c47-b3db-4346-8eb7-9db1d37bb6f3")
+	)
+	(text "L"
+		(exclude_from_sim no)
+		(at 45.974 53.594 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8a6ee6bc-714a-403a-afa8-f93884c37831")
 	)
 	(text "L"
 		(exclude_from_sim no)
@@ -3526,6 +3546,16 @@
 			)
 		)
 		(uuid "c05d9eb6-4b73-4c97-804c-723170bc05d2")
+	)
+	(text "L"
+		(exclude_from_sim no)
+		(at 45.974 48.768 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ed78e1de-0bca-42f6-842b-2565d3780946")
 	)
 	(label "COL3"
 		(at 64.77 58.42 180)

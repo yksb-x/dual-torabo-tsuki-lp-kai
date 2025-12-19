@@ -14,6 +14,8 @@ torabo-tsuki LP（トラボ付きLP）はトラックボール付きの無線分
 |Sサイズ, 右25mmボール|Sサイズ, 右25mmボール|
 |![](img/torabo-tsuki-lp-s-19.JPG)|![](img/torabo-tsuki-lp-s-19-side.JPG)|
 |Sサイズ, 右19mmボール|Sサイズ, 右19mmボール|
+|![](img/torabo-tsuki-lp-m-19.JPG)||
+|Mサイズ, 右19mmボール||
 
 ## [ビルドガイド](build-guide.md)
 
