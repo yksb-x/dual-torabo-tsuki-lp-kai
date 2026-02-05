@@ -11,13 +11,15 @@ torabo-tsuki LP（トラボ付きLP）はトラックボール付きの無線分
 
 |![](img/torabo-tsuki-lp-s-25.JPG)|![](img/torabo-tsuki-lp-s-25-side.JPG)|
 |-|-|
-|Sサイズ, 右25mmボール|Sサイズ, 右25mmボール|
+|Sサイズ, 右25mmボール, ケースなし|Sサイズ, 右25mmボール, ケースなし|
 |![](img/torabo-tsuki-lp-s-19.JPG)|![](img/torabo-tsuki-lp-s-19-side.JPG)|
-|Sサイズ, 右19mmボール|Sサイズ, 右19mmボール|
+|Sサイズ, 右19mmボール, ケースなし|Sサイズ, 右19mmボール, ケースなし|
 |![](img/torabo-tsuki-lp-m-19.JPG)||
-|Mサイズ, 右19mmボール||
+|Mサイズ, 右19mmボール, ケースなし||
 |![](img/torabo-tsuki-lp-l-25.jpg)|![](img/simple-case.jpg)|
-|Lサイズ, 右25mmボール|Lサイズ, シンプルケース|
+|Lサイズ, 右25mmボール, ケースなし|Lサイズ, シンプルケース|
+|![](img/torabo-tsuki-l-tenting.jpg)|![](img/torabo-tsuki-lp-xs.jpg)|
+|Lサイズ, テンティングケース|XSサイズ, 右25mmボール, シンプルケース|
 
 ## [ビルドガイド](build-guide.md)
 
