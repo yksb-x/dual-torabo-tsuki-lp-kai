@@ -30,7 +30,7 @@
 | **オプション** |||
 |ケース| 1式 | [シンプルケース](3d-models/STL/option)や有志が公開・販売しているデータを装着できます |
 | **BMP Boost別売りの場合**                      |       |                                                                                                                                        |
-| BMP Boost                                      | 2     | BLE Micro Proは使用できません。入手先:[BOOTH](https://booth.pm/ja/items/1177319), [遊舎工房](https://shop.yushakobo.jp/products/10737) |
+| BMP Boost                                      | 2     | BLE Micro Pro (無印)は使用できません。入手先:[BOOTH](https://booth.pm/ja/items/1177319), [遊舎工房](https://shop.yushakobo.jp/products/10737) |
  
 
 ## 必要な工具
