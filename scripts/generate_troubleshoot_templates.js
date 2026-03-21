@@ -54,6 +54,7 @@ const troubleshootData = {
         "その他のキー入力の問題"
       ],
       troubleshoot: [
+        "Peripheral側を単独で接続してもキー入力できないことを理解した",
         "ZMKのドキュメント、FAQを確認した",
         "central側にキーマップが設定されていることをzmk-studioで確認した",
         "キースイッチの足が折れ曲がっていないか確認した",
