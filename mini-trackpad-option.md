@@ -35,4 +35,4 @@
 
 ## ファームウェア
 
-[build.yaml](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp/blob/master/build.yaml)を編集し、トラックボール側のスニペットに`input-split-listner`、トラックパッド側のスニペットに`input-trackpad-mini`を追加してビルド
+[build.yaml](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp/blob/master/build.yaml)を編集し、トラックボール側のスニペットに`input-split-listener`、トラックパッド側のスニペットに`input-trackpad-mini`を追加してビルド
